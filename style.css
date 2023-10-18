@@ -1,7 +1,14 @@
+p{
+ color: rgb(149, 255, 0);
+text-align:justify;
+font-size: 30px;
+}
+
+
 h1{
 color: aqua;
 text-align: center;
-font-size: 20px;
+font-size: 12px;
 
 
 }
