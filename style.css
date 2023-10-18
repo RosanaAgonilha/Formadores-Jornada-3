@@ -1,5 +1,7 @@
 
-
+body {
+    background: #CCCCCC
+}
 h1{
 color: rgb(255, 0, 132);
 text-align: center;
