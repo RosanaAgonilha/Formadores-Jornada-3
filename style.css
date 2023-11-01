@@ -12,10 +12,10 @@ p{
 text-align:justify;
 font-size: 12px;
 }
-div
+div{
 p{
     color: rgb(93, 0, 255);
    text-align:justify;
    font-size: 14px;
    }
-
+}
